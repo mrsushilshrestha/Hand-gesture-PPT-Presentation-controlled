@@ -8,7 +8,7 @@ This project enables users to control a PowerPoint presentation using hand gestu
 - 📽️ **PowerPoint Slideshow Control**: Navigate through slides using simple hand gestures.
 - 🤚 **Gesture Commands**:
   - ✋ **All fingers up** → Move to the next slide.
-  - ☝️ **Only index finger up** → Move to the previous slide.
+  - 👎 **Only index finger down** → Move to the previous slide.
 - 🔄 **Automatic Slideshow Execution**: Opens and starts the PowerPoint presentation automatically.
 - 🖥️ **User-Friendly Interface**: Simple and intuitive controls.
 
