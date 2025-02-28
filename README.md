@@ -16,7 +16,7 @@ This project enables users to control a PowerPoint presentation using hand gestu
 Ensure you have Python installed along with the following dependencies:
 
 ```bash
-pip install opencv-python cvzone pywin32
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ pip install opencv-python cvzone pywin32
 
 2. **Run the Script**:
    ```bash
-   python script.py
+   python Code.py
    ```
 
 3. **Control the Presentation with Hand Gestures**:
