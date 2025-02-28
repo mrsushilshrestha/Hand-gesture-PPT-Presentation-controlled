@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 3. **Control the Presentation with Hand Gestures**:
    - ✋ **All fingers up** → Next slide
-   - ☝️ **Only index finger up** → Previous slide
+   - 👎 **Only index finger down** → Move to the previous slide.
 
 4. **Exit the Program**:
    - Press 'q' to terminate the application.
