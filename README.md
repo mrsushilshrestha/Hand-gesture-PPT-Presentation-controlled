@@ -17,7 +17,7 @@ Ensure you have Python installed along with the following dependencies:
 
 ```bash
 pip install -r requirements.txt
-```
+```S
 
 ## Usage
 1. **Prepare the PowerPoint File**:
